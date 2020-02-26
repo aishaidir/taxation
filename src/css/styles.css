@@ -1,0 +1,25 @@
+@import "./Views/welcomePage.css";
+@import "./Views/CompleteSignup.css";
+@import "./components/MessageCard.css";
+
+/* form {
+    overflow-y: scroll !important;
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+}
+form::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0 !important;
+} */
+
+.carousel {
+  outline: 0;
+}
+.carousel .slider-slide .caroItem {
+  outline: none !important;
+}
+.dot {
+  width: 5px;
+  height: 2px;
+  background: black;
+}
